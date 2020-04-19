@@ -8,5 +8,5 @@ This is the website used to convert currency from USD to INR and vice-versa.
 
 
 
--> I have hosted this website :/br
+-> I have hosted this website :
 -> Following is the website link- http://currencyconverte.ultimatefreehost.in/?i=1
